@@ -3,8 +3,8 @@ title:       Fossframe
 email:       admin@fossframe.com
 author:      Muhammad Muhajir
 description: "Just frames of foss"
-baseurl:     "busterni-jekyll-theme"
-url:         "http://fossframe.com"
+baseurl:     "/busterni-jekyll-theme"
+url:         "https://programmersantuy.github.io"
 date_format: "%b %-d, %Y"
 permalink: none
 
